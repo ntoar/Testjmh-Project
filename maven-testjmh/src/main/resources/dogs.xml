@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dogs>
+  <dog name="Riki">
+    <dateOfBirth>05-02-2005</dateOfBirth>
+    <weight>38</weight>
+    <breed>Rhodesian Ridgeback</breed>
+  </dog>
+  <dog name="Baldi">
+    <dateOfBirth>10-03-2010</dateOfBirth>
+    <weight>55</weight>
+    <breed>Bernese Mountain Dog</breed>
+  </dog>
+  <dog name="Corrie">
+    <dateOfBirth>18-03-2012</dateOfBirth>
+    <weight>17</weight>
+    <breed>Shiba Inu</breed>
+  </dog>
+  <dog name="Havko">
+    <dateOfBirth>25-08-2014</dateOfBirth>
+    <weight>25</weight>
+    <breed>Siberian Husky</breed>
+  </dog>
+  <dog name="Kuki">
+    <dateOfBirth>14-10-2018</dateOfBirth>
+    <weight>26</weight>
+    <breed>Siberian Husky</breed>
+  </dog>
+  <dog name="Rex">
+    <dateOfBirth>18-12-2017</dateOfBirth>
+    <weight>40</weight>
+    <breed>German Shepherd</breed>
+  </dog>
+  <dog name="Snowy">
+    <dateOfBirth>19-09-1999</dateOfBirth>
+    <weight>36</weight>
+    <breed>Siberian Husky</breed>
+  </dog>
+  <dog name="Ace">
+    <dateOfBirth>08-04-2011</dateOfBirth>
+    <weight>34</weight>
+    <breed>Labrador Retriever</breed>
+  </dog>
+  <dog name="Labbie">
+    <dateOfBirth>10-08-2019</dateOfBirth>
+    <weight>32</weight>
+    <breed>Labrador Retriever</breed>
+  </dog>
+  <dog name="Speedy">
+    <dateOfBirth>12-10-2015</dateOfBirth>
+    <weight>29</weight>
+    <breed>Greyhound</breed>
+  </dog>
+  <dog name="Nikko">
+    <dateOfBirth>24-06-2018</dateOfBirth>
+    <weight>12</weight>
+    <breed>Japanese Spitz</breed>
+  </dog>
+  <dog name="Etnya">
+    <dateOfBirth>04-04-2019</dateOfBirth>
+    <weight>32</weight>
+    <breed>German Shepherd</breed>
+  </dog>
+  <dog name="Luka">
+    <dateOfBirth>26-03-2008</dateOfBirth>
+    <weight>28</weight>
+    <breed>Bohemian Wirehaired Pointing Griffon</breed>
+  </dog>
+  <dog name="Dorie">
+    <dateOfBirth>04-10-2019</dateOfBirth>
+    <weight>1.2</weight>
+    <breed>German Shepherd</breed>
+  </dog>
+  <dog name="Fuji">
+    <dateOfBirth>14-09-2018</dateOfBirth>
+    <weight>7.5</weight>
+    <breed>Shiba Inu</breed>
+  </dog>
+</dogs>
