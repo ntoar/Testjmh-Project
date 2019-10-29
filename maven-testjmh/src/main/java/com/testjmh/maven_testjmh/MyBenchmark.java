@@ -58,12 +58,10 @@ public class MyBenchmark {
     @Benchmark
     @BenchmarkMode(Mode.AverageTime)
     @OutputTimeUnit(TimeUnit.MICROSECONDS)
-    @Warmup(iterations=5)
+    @Warmup(iterations=10)
     @Measurement(iterations=10)
     public void testMethod(Blackhole bh) {
-        // This is a demo/sample template for building your JMH benchmarks. Edit as needed.
-        // Put your benchmark code here.
-    	
+            	
     	Map<String,Double> m =dl.averageWeightPerBreed();
     	bh.consume(m.size());
     }
